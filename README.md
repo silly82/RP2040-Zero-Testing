@@ -2,7 +2,7 @@
 
 Laufendes Projekt zum Testen der Hardware und des Raspberry Pi Pico SDK auf dem **Waveshare RP2040 Zero**.
 
-![Board](docs/images/board.jpg)
+<!-- ![Board](docs/images/board.jpg) -->
 
 ---
 
@@ -52,7 +52,7 @@ GP9 │         │ GP13
 **Funktionsprinzip Touch:**
 Der Pin wird kurz auf HIGH getrieben und dann auf Eingang mit Pull-Down umgeschaltet. Die Zeit bis zur Entladung wird als Loop-Iterationen gezählt. Ein Finger erhöht die Kapazität ~50×, was zuverlässig erkannt wird.
 
-![Demo](docs/images/demo.jpg)
+<!-- ![Demo](docs/images/demo.jpg) -->
 
 ---
 
